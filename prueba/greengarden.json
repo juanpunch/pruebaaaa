@@ -1,0 +1,20 @@
+{
+    "reguistro": [
+        {
+            "id": 1,
+            "nombre": "alejandro",
+            "direccion": "pasje oberon",
+            "numero": "345345",
+            "pedido": "flores",
+            "cantidad": 5
+        },
+        {
+            "id": 2,
+            "nombre": "elpepe",
+            "direccion": "3345345",
+            "numero": "345345",
+            "pedido": "34534",
+            "cantidad": 5
+        }
+    ]
+}
